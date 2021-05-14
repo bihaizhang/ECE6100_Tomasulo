@@ -1,0 +1,3 @@
+SD R0 R2
+LD R2 4
+SD R2 R6
